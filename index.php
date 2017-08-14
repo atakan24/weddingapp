@@ -32,7 +32,7 @@
   </head>
   <body>
 
-    <table id="json-data" border="2">
+    <table id="json-data" border="3">
 
     </table>
 
